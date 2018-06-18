@@ -10,8 +10,7 @@ Some information about me
 I am a student at Charlottesville High school and I am learning coding,data,and more cool skills at C4K!!
 
 ### Contact me
-<h1/>
 Email: ccsbrittany1414@gmail.com
-Instgram: WE_SHINE_FOR_JESUS
-Facebook: Brittany Washington
-<h1/>
+       Instgram: WE_SHINE_FOR_JESUS
+                Facebook: Brittany Washington
+
