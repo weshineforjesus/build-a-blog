@@ -11,6 +11,6 @@ I am a student at Charlottesville High school and I am learning coding,data,and 
 
 ### Contact me
 Email: ccsbrittany1414@gmail.com
-       Instgram: WE_SHINE_FOR_JESUS
+       Instagram: WE_SHINE_FOR_JESUS
                 Facebook: Brittany Washington
 
