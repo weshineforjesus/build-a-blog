@@ -1,4 +1,4 @@
-This project instructs you how to build a blog.
+This project instructs you how to create an account to github.
 
 The instructions happen to also be the example blog you start with!
 
